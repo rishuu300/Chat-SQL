@@ -9,7 +9,7 @@
 | tags:                                                                                         |
 | - streamlit                                                                                   |
 | pinned: false                                                                                 |
-| short_description: Chat with your database using LLM                                          |
+| short_description: Chat with your SQL database using LLM                                      |
 | license: apache-2.0                                                                           |
 | sdk_version: 1.47.0                                                                           |
 | ---                                                                                           |
